@@ -9,11 +9,7 @@ function studentGradess(result) {
 	} else {
 		Aprove;
 	}
-  if () {
 
-  } else {
-
-  }
 	persons.forEach((result) => {
 		studentGrades > 60;
 	});
